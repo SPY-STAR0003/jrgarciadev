@@ -1,4 +1,4 @@
-![Logo](https://portfoliov2-ruby.vercel.app/logo.svg)
+<img src="https://portfoliov2-ruby.vercel.app/logo.svg">
 
 ### Hi there 👋
 I'm a software developer based in Buenos Aires AR, specializing in building exceptional websites and mobile applications, and everything in between.
