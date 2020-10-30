@@ -23,17 +23,17 @@ I'm a software developer based in Buenos Aires AR, specializing in building exce
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
   ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0A1A2F?style=flat&logo=nuxt.js)
-- 🛢 &nbsp;
+- 🛢 Database:&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
-- 🔧 &nbsp;
+- 🔧 IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-0A1A2F?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-0A1A2F?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20Code-0A1A2F?style=flat&logo=android-studio)
+  ![Vim](https://img.shields.io/badge/-VIM-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-0A1A2F?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=adobe-photoshop)
