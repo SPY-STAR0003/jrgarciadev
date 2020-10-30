@@ -1,4 +1,4 @@
-<img src="https://portfoliov2-ruby.vercel.app/logo.svg">
+<img width="40em" height="40em" src="https://portfoliov2-ruby.vercel.app/logo.svg">
 
 <h2> Welcome 👋 🙋, I'm Junior García.</h2>
 
