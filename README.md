@@ -13,7 +13,7 @@ I'm a software developer based in Buenos Aires AR, specializing in building exce
 - 📱 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=F4F4F4)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-0A1A2F?style=flat&logo=Kotlin&logoColor=007396)
-  ![React Native](https://img.shields.io/badge/-React Native-0A1A2F?style=flat&logo=React&logoColor=007396)
+  ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=007396)
   ![Expo](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=HTML5)
