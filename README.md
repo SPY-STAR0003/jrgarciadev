@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://jrgarciadev.com">
+  <a href="https://jrgarciadev.com" target="_blank">
     <img width="40em" height="40em" src="https://portfoliov2-ruby.vercel.app/logo.svg">
   </a>
 </p
