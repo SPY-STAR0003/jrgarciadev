@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="40em" height="40em" src="https://portfoliov2-ruby.vercel.app/logo.svg">
+  <a href="https://jrgarciadev.com">
+    <img width="40em" height="40em" src="https://portfoliov2-ruby.vercel.app/logo.svg">
+  </a>
 </p
 
 <h2> Welcome 👋 🙋, I'm Junior García.</h2>
