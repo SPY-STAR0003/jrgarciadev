@@ -11,3 +11,4 @@ I'm a software developer based in Buenos Aires AR, specializing in building exce
 - 😄 Pronouns: ...
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jrgarciadev&show_icons=true&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrgarciadev&layout=compact)](https://github.com/jrgarciadev/github-readme-stats)
