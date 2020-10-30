@@ -9,9 +9,9 @@ I'm a software developer based in Buenos Aires AR, specializing in building exce
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=F4F4F4)
+  ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
 - 📱 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=F4F4F4)
+  ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-0A1A2F?style=flat&logo=Kotlin)
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
   ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=FFF)
