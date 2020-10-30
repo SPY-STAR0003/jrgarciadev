@@ -8,14 +8,16 @@ I'm a software developer based in Buenos Aires AR, specializing in building exce
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
-- 📱 &nbsp;
+- 📱 Mobile:&nbsp;
   ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-0A1A2F?style=flat&logo=Kotlin)
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
   ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=FFF)
-- 🌐 &nbsp;
+- 🗄 Backend:&nbsp;
+  ![Laravel](https://img.shields.io/badge/-Laravel-0A1A2F?style=flat&logo=laravel)
+  ![Symfony](https://img.shields.io/badge/-Symfony-0A1A2F?style=flat&logo=symfony)
+  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
+- 🌐 Frontend:&nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-0A1A2F?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
