@@ -1,6 +1,6 @@
 <img src="https://portfoliov2-ruby.vercel.app/logo.svg">
 
-<h2> Welcome 👋 🙋,,I'm Junior García.</h2>
+<h2> Welcome 👋 🙋, I'm Junior García.</h2>
 
 I'm a software developer based in Buenos Aires AR, specializing in building exceptional websites and mobile applications, and everything in between.
 
