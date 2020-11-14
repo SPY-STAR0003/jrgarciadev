@@ -49,7 +49,6 @@ I'm a software developer based in Buenos Aires AR, specializing in building exce
 
 <a href="https://github.com/jrgarciadev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrgarciadev&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrgarciadev&layout=compact&show_icons=true&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3" />
 </a>
 
 
