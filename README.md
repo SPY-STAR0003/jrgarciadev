@@ -15,6 +15,7 @@ I'm a software developer based in Buenos Aires AR, specializing in building exce
   ![Kotlin](https://img.shields.io/badge/-Kotlin-0A1A2F?style=flat&logo=Kotlin)
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
   ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=FFF)
+  ![Ionic](https://img.shields.io/badge/-Ionic-0A1A2F?style=flat&logo=Ionic)
 - 🗄 &nbsp;Backend:&nbsp;
   ![Laravel](https://img.shields.io/badge/-Laravel-0A1A2F?style=flat&logo=laravel)
   ![Symfony](https://img.shields.io/badge/-Symfony-0A1A2F?style=flat&logo=symfony)
