@@ -53,7 +53,8 @@ I'm a software developer based in Buenos Aires AR, specializing in building exce
 </a>
 
 <h3>📚 Latest blogs</h3>
-<a href="https://blog.jrgarciadev.com">
+/* <a href="https://blog.jrgarciadev.com">
   <img src="https://hashnode-blog-cards.souravdey777.vercel.app/api/getLatestHashnodeBlog?large=true&username=jrgarciadev&limit=3&theme=light" />
 </a>
+*/
 
