@@ -17,9 +17,9 @@ I'm a software developer based in Buenos Aires AR, specializing in building exce
   ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=FFF)
   ![Ionic](https://img.shields.io/badge/-Ionic-0A1A2F?style=flat&logo=Ionic)
 - 🗄 &nbsp;Backend:&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
   ![Laravel](https://img.shields.io/badge/-Laravel-0A1A2F?style=flat&logo=laravel)
   ![Symfony](https://img.shields.io/badge/-Symfony-0A1A2F?style=flat&logo=symfony)
-  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
 - 🌐 &nbsp;Frontend:&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
   ![StyledComponents](https://img.shields.io/badge/-StyledComponents-0A1A2F?style=flat&logo=styled-components&logoColor=fff)
