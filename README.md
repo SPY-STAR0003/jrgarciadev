@@ -12,7 +12,6 @@ I'm a software developer based in Buenos Aires AR, specializing in building exce
 
 - 📱 &nbsp;Mobile:&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
-  ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=FFF)
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
 - 🌐 &nbsp;Frontend:&nbsp;
